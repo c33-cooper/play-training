@@ -4,7 +4,7 @@
 		module="play-training-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20160408152333"
+		publication="20160408153134"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

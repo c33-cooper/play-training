@@ -14,3 +14,5 @@ libraryDependencies ++= Seq(
 )
 
 resolvers += "scalaz-bintray" at "http://dl.bintray.com/scalaz/releases"
+
+libraryDependencies += "net.sf.barcode4j" % "barcode4j" % "2.0"
